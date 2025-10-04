@@ -1,6 +1,6 @@
 # 📄 AI Document Summarizer
 
-An intelligent document summarization tool powered by Facebook's BART transformer model.
+An intelligent text summarization tool powered by Facebook's BART transformer model.
 
 ## 🚀 Live Demo
 [Try it here](https://huggingface.co/spaces/YOUR_USERNAME/ai-document-summarizer)
