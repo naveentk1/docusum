@@ -3,7 +3,7 @@
 An intelligent text summarization tool powered by Facebook's BART transformer model.
 
 ## 🚀 Live Demo
-[Try it here](https://huggingface.co/spaces/YOUR_USERNAME/ai-document-summarizer)
+[Try it here](https://huggingface.co/spaces/naveentk/ai-text-summarizer)
 
 ## ✨ Features
 - **Smart Summarization**: Uses state-of-the-art BART model from Facebook AI
