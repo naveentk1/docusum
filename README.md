@@ -26,8 +26,8 @@ An intelligent document summarization tool powered by Facebook's BART transforme
 ## 🏃 Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-document-summarizer.git
-cd ai-document-summarizer
+git clone https://github.com/YOUR_USERNAME/textsum.git
+cd textsum
 
 # Install dependencies
 pip install -r requirements.txt
