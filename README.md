@@ -27,7 +27,7 @@ An intelligent text summarization tool powered by Facebook's BART transformer mo
 ```bash
 # Clone the repository
 git clone https://github.com/naveentk1/docusum
-cd textsum
+cd docusum
 
 # Install dependencies
 pip install -r requirements.txt
